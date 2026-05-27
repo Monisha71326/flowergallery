@@ -1,0 +1,170 @@
+body{
+font-family:'Dancing Script',cursive;
+
+}
+.rose-heading{
+    font-size:50px;
+    color:#c71585;
+	position:relative;
+	top:50px;
+	text-shadow:2px 2px 0 white;
+    
+  }
+.seed-icon{
+   color: green;
+}
+.zero{
+padding-top:100px;
+}
+.rose-img{
+  width:400px;
+  height:400px;
+ margin-top:100px;
+ border: 8px solid white;
+ outline:8px solid green;
+ border-radius:15%;
+ box-shadow:0 0 80px deeppink,0 0 40px #ff1493;
+ transition:filter 0.5s,transform 0.5s;
+ 
+ 
+  }
+.table-data{
+padding-top:100px;
+
+}
+h4{
+margin-left:50px;
+margin-bottom:40px;
+}
+.four{
+ font-size:40px; 
+position:relative;
+right:40px;
+ 	color:#c71585;
+	text-shadow:2px 2px 0 white;
+}
+.rose-content{
+font-size:20px;
+color:white;
+
+}
+a{
+font-size: 60px;
+  position: absolute;
+  top:60px;
+  left: 110px;
+  color: #c71585;
+  text-decoration: none;
+  
+}
+.sunflower-img{
+width:400px;
+height:400px;
+ margin-top:100px;
+ border: 8px solid white;
+ outline:8px solid green;
+ border-radius:15%;
+ box-shadow:0 0 80px deeppink,0 0 40px #ff1493;
+}
+body{
+	background-image:url("../img/345.png");
+	background-size:cover;
+background-repeat:no-repeat; 
+background-position:center;
+filter: brightness(1.2);
+}
+.hibi-img{
+	margin-left:50px;
+	width:400px;
+ margin-top:100px;
+ border: 8px solid white;
+ outline:8px solid green;
+ 
+ 
+}
+.jas-heading{
+    font-size:50px;
+    color:white;
+	position:relative;
+	top:50px;
+	text-shadow:2px 2px 0 white;
+    
+  }
+  .five{
+ font-size:40px; 
+position:relative;
+right:40px;
+ 	color:green;
+	text-shadow:2px 2px 0 white;
+}
+.sun-heading{
+    font-size:50px;
+    color:yellow;
+	position:relative;
+	top:50px;
+	text-shadow:2px 2px 0 white;
+    
+  }
+  .six{
+ font-size:40px; 
+position:relative;
+right:40px;
+ 	color:yellow;
+	text-shadow:2px 2px 0 white;
+}
+ .hibi-heading{
+    font-size:50px;
+    color:red;
+	position:relative;
+	top:50px;
+	text-shadow:2px 2px 0 white;
+    
+  }
+  .seven{
+ font-size:40px; 
+position:relative;
+right:40px;
+ 	color:red;
+	text-shadow:2px 2px 0 white;
+}
+.rose-img:hover{
+	color:white;
+}
+ .lav-heading{
+    font-size:50px;
+    color:#c71585;
+    position:relative;
+	top:50px;
+	text-shadow:2px 2px 0 white;
+    
+  }
+  .lave{
+ font-size:40px; 
+position:relative;
+right:40px;
+ 	color:#c71585;
+	text-shadow:2px 2px 0 white;
+} 
+.mari-heading{
+    font-size:50px;
+    color:yellow;
+    position:relative;
+	top:50px;
+	text-shadow:2px 2px 0 white;
+   }
+  i{
+ color:white;
+  }	
+  a i:hover{
+color:black;
+transform:rotate(-20deg);
+}
+.rose-img:hover{
+transform:scale(1.2);
+filter:brightness(1.2);
+}	
+
+
+
+
+
