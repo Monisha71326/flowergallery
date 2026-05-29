@@ -2,14 +2,82 @@
 
 A beautiful **Flower Gallery Website** built using **HTML**, **CSS**, and **Font Awesome** icons. The gallery displays 9 different flowers, each linking to a dedicated detail page with description and image.
 
+# 📸 Project Screenshots
+
+## 🏠 Main Gallery Page
+
+![Main Gallery](assets/img/screenshots/home.png)
+
+---
+
+## 🌹 Rose Page
+
+![Rose Page](assets/img/screenshots/rose.png)
+
+---
+
+## 🌼 Jasmine Page
+
+![Jasmine Page](assets/img/screenshots/jasmine.png)
+
+---
+
+## 🪷 Lotus Page
+
+![Lotus Page](assets/img/screenshots/lotus.png)
+
+---
+
+## 🌻 Sunflower Page
+
+![Sunflower Page](assets/img/screenshots/sunflower.png)
+
+---
+
+## 🌺 Hibiscus Page
+
+![Hibiscus Page](assets/img/screenshots/hibiscus.png)
+
+---
+
+## 💜 Lavender Page
+
+![Lavender Page](assets/img/screenshots/lavender.png)
+
+---
+
+## 🟠 Marigold Page
+
+![Marigold Page](assets/img/screenshots/marigold.png)
+
+---
+
+## 🌸 Daisy Page
+
+![Daisy Page](assets/img/screenshots/daisy.png)
+
+---
+
+## 🌷 Lily Page
+
+![Lily Page](assets/img/screenshots/lily.png)
+
+---
+
+## 📁 Project Structure
+
+```
+
+
+
 ## 📁 Project Structure
 
 ```
 flowergallery/
 │
-├── index.html                  # Main gallery page
+├── index.html
 │
-├── pages/                      # Individual flower detail pages
+├── pages/
 │   ├── rose1.html
 │   ├── jasmine1.html
 │   ├── lotes1.html
@@ -21,19 +89,32 @@ flowergallery/
 │   └── lily1.html
 │
 └── assets/
-    ├── css/
-    │   ├── style.css           # Gallery page styles
-    │   └── styleo.css          # Detail page styles
-    └── img/                    # All flower images
-        ├── 101.png             # Rose
-        ├── img2.png            # Jasmine
-        ├── imga.png            # Lotus
-        ├── img4.png            # Sunflower
-        ├── img5.png            # Hibiscus
-        ├── img6.png            # Lavender
-        ├── mari.png            # Marigold
-        ├── daisy.png           # Daisy
-        └── lily1.png           # Lily
+├── css/
+│ ├── style.css
+│ └── styleo.css
+│
+├── img/
+│ ├── 101.png
+│ ├── img2.png
+│ ├── imga.png
+│ ├── img4.png
+│ ├── img5.png
+│ ├── img6.png
+│ ├── mari.png
+│ ├── daisy.png
+│ └── lily1.png
+│
+└── screenshots/
+├── home.png
+├── rose.png
+├── jasmine.png
+├── lotus.png
+├── sunflower.png
+├── hibiscus.png
+├── lavender.png
+├── marigold.png
+├── daisy.png
+└── lily.png
 ```
 
 ## 🌺 Flowers in the Gallery
