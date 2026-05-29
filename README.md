@@ -69,10 +69,9 @@ A beautiful **Flower Gallery Website** built using **HTML**, **CSS**, and **Font
 ```
 
 
-
 ## 📁 Project Structure
 
-```
+```text
 flowergallery/
 │
 ├── index.html
@@ -89,32 +88,33 @@ flowergallery/
 │   └── lily1.html
 │
 └── assets/
-├── css/
-│ ├── style.css
-│ └── styleo.css
-│
-├── img/
-│ ├── 101.png
-│ ├── img2.png
-│ ├── imga.png
-│ ├── img4.png
-│ ├── img5.png
-│ ├── img6.png
-│ ├── mari.png
-│ ├── daisy.png
-│ └── lily1.png
-│
-└── screenshots/
-├── home.png
-├── rose.png
-├── jasmine.png
-├── lotus.png
-├── sunflower.png
-├── hibiscus.png
-├── lavender.png
-├── marigold.png
-├── daisy.png
-└── lily.png
+    │
+    ├── css/
+    │   ├── style.css
+    │   └── styleo.css
+    │
+    ├── img/
+    │   ├── 101.png
+    │   ├── img2.png
+    │   ├── imga.png
+    │   ├── img4.png
+    │   ├── img5.png
+    │   ├── img6.png
+    │   ├── mari.png
+    │   ├── daisy.png
+    │   └── lily1.png
+    │
+    └── screenshots/
+        ├── home.png
+        ├── rose.png
+        ├── jasmine.png
+        ├── lotus.png
+        ├── sunflower.png
+        ├── hibiscus.png
+        ├── lavender.png
+        ├── marigold.png
+        ├── daisy.png
+        └── lily.png
 ```
 
 ## 🌺 Flowers in the Gallery
